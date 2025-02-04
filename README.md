@@ -5,6 +5,9 @@
 My gym allows class bookings only three days before the session starts, and with just 15 spots available, securing a place can be a frustrating experience. I found myself setting alarms three days in advance just to remind me to rush and book my slot.
 Every time the alarm went off, I had to drop whatever I was doing, open the gym’s website, and quickly hit the booking button. For the most popular classes, all 15 spots would be gone in less than a minute! It felt like a race every time, and there were moments when my alarm went off while I was in the shower—you can imagine the frustration.
 That’s when I came up with the idea of automating the booking process. I wanted a system that could handle it for me, running effortlessly on a cost-effective Raspberry Pi Zero W.
+
+![th-2716695104](https://github.com/user-attachments/assets/2bdd6b5a-5faf-49af-a434-a98624bba52b)
+
 Now, when I’m with my gym buddies and I hear their alarms ringing for class bookings, I just smile—knowing that someone (or rather, something) is handling it for me. 😏
 
 ## Overview
